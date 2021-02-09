@@ -6,7 +6,7 @@ We use yolov5 model to detect the animal's and we have used the Open Image Datas
 
 ## Dataset
 
-We use [Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html) To [download](https://github.com/theAIGuysCode/OIDv4_ToolKit) the Open Image Dataset.
+We use [Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html). To [download](https://github.com/theAIGuysCode/OIDv4_ToolKit) the Open Image Dataset.
 
 ## Model classes 
 

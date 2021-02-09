@@ -6,7 +6,7 @@ We use yolov5 model to detect the animal's and we have used the Open Image Datas
 
 ## Dataset
 
-We use [Open Image Dataset]: https://storage.googleapis.com/openimages/web/index.html To [download]: https://github.com/theAIGuysCode/OIDv4_ToolKit the Open Image Dataset.
+We use [Open Image Dataset](https://storage.googleapis.com/openimages/web/index.html) To [download](https://github.com/theAIGuysCode/OIDv4_ToolKit) the Open Image Dataset.
 
 ## Model classes 
 
@@ -25,10 +25,12 @@ python3 datect.py --source ImageName --device cpu or 1
 
 ## Model Evaluation
 
-![Precision curve]('Report/P_curve.png') ![Recall curve]('Report/R_curve.png') ![Precision and Recall curve]('Report/PR_curve.png')
-![F1 Curve]('Report/F1_curve.png') ![Result]('Report/results.png') ![Confusion matrix]('Report/confusion_matrix.png')
+<a><img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/F1_curve.png" width="500" height="400"> 
 
 ## Model Result
 
-![]() ![]() ![]()
+<a><img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Model%20output/Tiger_elephant.jpeg" width="400" height="400"> 
+<img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Model%20output/ch.jpg" width="400" height="400"> 
+<img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Model%20output/ch3.jpg" width="400" height="400"> 
+<img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Model%20output/cro.jpeg" width="400" height="400"> </a>
 

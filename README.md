@@ -23,13 +23,6 @@ pip3 install -r requirements.txt
 
 python3 detect.py --source ImageName --device cpu or 1
 
-## Model Evaluation
-
-<a>
-  <img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/PR_curve.png"> 
-  <img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/confusion_matrix.png"> 
-</a>
-
 ## Model Result
 
 <a><img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Model%20output/Tiger_elephant.jpeg" width="400" height="400"> 

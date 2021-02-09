@@ -21,11 +21,14 @@ pip3 install -r requirements.txt
 
 ## Run the Model
 
-python3 datect.py --source ImageName --device cpu or 1
+python3 detect.py --source ImageName --device cpu or 1
 
 ## Model Evaluation
 
-<a><img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/F1_curve.png" width="500" height="400"> 
+<a>
+  <img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/PR_curve.png"> 
+  <img src="https://github.com/hackernishanth/Animal-Monitoring/blob/main/Report/confusion_matrix.png"> 
+</a>
 
 ## Model Result
 

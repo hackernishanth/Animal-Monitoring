@@ -2,7 +2,7 @@
 
 We use yolov5 model to detect the animal's and we have used the Open Image Dataset for preparing the Dataset and for the end product we use the web-app. We have trained the model in Google colab. We have create the mail sending notification as report.
 
-[![Google colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sPWJsy-eUcTQew6vFdopANyNb01548Ve)
+[![Google colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gAfTZ7ysoZw9Y1jsnx5LlIfUlVyTgPzI?usp=sharing)
 
 ## Dataset
 
